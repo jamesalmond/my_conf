@@ -1,0 +1,14 @@
+[user]
+	name = JamesAlmond
+	email = james@jamesalmond.com
+[alias]
+	cm = checkout master
+	co = checkout
+	undo = reset --hard
+  st = status
+  ci = commit
+  br = branch
+  df = diff
+[github]
+	user = JamesAlmond
+	token = *BLANK*
