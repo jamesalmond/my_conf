@@ -1,0 +1,5 @@
+set guioptions=aAce
+color molokai
+
+" Command-T configuration
+map <Leader>tr :CommandTFlush <CR>
