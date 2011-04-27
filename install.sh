@@ -4,3 +4,4 @@ ln -s ~/.my_conf/vimrc_local ~/.vimrc.local
 ln -s ~/.my_conf/janus_rake ~/.janus.rake
 ln -s ~/.my_conf/gitconfig ~/.gitconfig
 ln -s ~/.my_conf/gemrc ~/.gemrc
+ln -s ~/.my_conf/rvmrc ~/.rvmrc
