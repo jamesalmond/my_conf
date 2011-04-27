@@ -1,5 +1,7 @@
-# My zsh configuration
-To make this configuration work create symbolic links to your home directory.
+# My configuration files
 
-`ln -s /somewhere/zsh_conf/zshrc .zshrc`
-`ln -s /somewhere/zsh_conf/vimrc_local .vimrc.local`
+To install this:
+
+* add your github API token to ~/.github_token
+* run `bash install.sh`
+* run `bash gitconfig_install.sh`
