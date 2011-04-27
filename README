@@ -1,0 +1,4 @@
+# My zsh configuration
+To make this configuration work create symbolic links to your home directory.
+
+`ln -s /somewhere/zsh_conf/zshrc .zshrc`
