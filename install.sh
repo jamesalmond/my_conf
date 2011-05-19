@@ -6,3 +6,4 @@ ln -s ~/.my_conf/gitconfig_with_token ~/.gitconfig
 ln -s ~/.my_conf/gemrc ~/.gemrc
 ln -s ~/.my_conf/rvmrc ~/.rvmrc
 ln -s ~/.my_conf/rdebugrc ~/.rdebugrc
+ln -s ~/.my_conf/gitignore ~/.gitignore
