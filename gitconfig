@@ -2,7 +2,7 @@
 	name = JamesAlmond
 	email = james@jamesalmond.com
 [core]
-  excludesfile ~/.gitignore
+	excludesfile = ~/.gitignore
 [alias]
 	cm = checkout master
 	co = checkout
