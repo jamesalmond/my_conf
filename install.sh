@@ -7,3 +7,4 @@ ln -s ~/.my_conf/gemrc ~/.gemrc
 ln -s ~/.my_conf/rvmrc ~/.rvmrc
 ln -s ~/.my_conf/rdebugrc ~/.rdebugrc
 ln -s ~/.my_conf/gitignore ~/.gitignore
+ln -s ~/.my_conf/ackrc ~/.ackrc
